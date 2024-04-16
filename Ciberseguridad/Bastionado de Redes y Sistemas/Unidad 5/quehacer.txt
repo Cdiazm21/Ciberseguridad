@@ -1,0 +1,11 @@
+1. guardar ficheros originales en en /ficheros_orginales
+los  que se van a editar en fichero_sandbox
+
+2. Script
+
+1º orden=copiar ficheros
+
+2º Variables= -Rutas  -Entornos(desarrollardor/producción)
+
+
+3. Los valores se retocan con sed.
